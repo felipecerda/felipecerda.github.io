@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hi, I'm Felipe Cerda and Welcome to my personal website.
+Hi, I'm Felipe Cerda and welcome to my personal website.
