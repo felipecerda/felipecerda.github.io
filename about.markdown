@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Professional
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have a degree in Computer Science from the [University of Concepcion](https://www.udec.cl) and have worked for the following companies:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- 2008 - 2009: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems)
+- 2011 - 2014: [JP Morgan Chase](https://www.jpmorganchase.com/)
+- 2014 - 2017: [LATAM Airlines](https://www.latamairlines.com/)
+- 2017 - 2018: [JetSMART Airlines](https://jetsmart.com/)
+- 2018 - Present: [PROLOGIS AG](https://www.prologis.aero/)
 
+# Personal
 
-[jekyll-organization]: https://github.com/jekyll
+I was born in Concepcion, Chile and I live in Cologne, Germany since 2018.
+
+My hobby is building and flying Radio-Controlled airplanes.

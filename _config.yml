@@ -26,9 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://felipecerda.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: felipecerda
+linkedin_username: felipecerda
+instagram_username: felipecerda
+rss: RSS
 
 # Build settings
-theme: minima
+# Removed minima gem theme and made it a normal theme
+# theme: minima
 plugins:
   - jekyll-feed
 
